@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pc/CLionProjects/BST/BSTFCI.cpp
+BSTFCI.h
+C:/Users/Pc/CLionProjects/BST/BSTFCI.h
+bits/stdc++.h
+-
+BSTNode.h
+C:/Users/Pc/CLionProjects/BST/BSTNode.h
+
+C:/Users/Pc/CLionProjects/BST/BSTFCI.h
+BSTNode.h
+C:/Users/Pc/CLionProjects/BST/BSTNode.h
+
+C:/Users/Pc/CLionProjects/BST/BSTNode.h
+bits/stdc++.h
+-
+
+C:/Users/Pc/CLionProjects/BST/main.cpp
+bits/stdc++.h
+-
+BSTFCI.cpp
+C:/Users/Pc/CLionProjects/BST/BSTFCI.cpp
+BSTNode.h
+C:/Users/Pc/CLionProjects/BST/BSTNode.h
+
